@@ -7,7 +7,7 @@
 
 - 📝 I sometimes write articles on [https://techoff.live](https://techoff.live)
 
-- 💬 Ask me about **Rust, Python, JavaScript, etc**
+- 💬 Ask me about **Rust, Python, JavaScript**
 
 - 📫 How to reach me **survevibhav09@gmail.com**
 
