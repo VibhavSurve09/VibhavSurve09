@@ -26,7 +26,7 @@
 
 ### 😂 Random Dev Meme
 
-<img src="http://152.67.11.203:2000/random" width="512px"/>
+![meme](http://152.67.11.203:2000/random)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VibhavSurve09&icon=5&color=12)](https://visitcount.itsvg.in)
