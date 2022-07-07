@@ -24,9 +24,5 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-![](https://memes.hellomemes.workers.dev/random?raw=true)
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=VibhavSurve09&icon=5&color=12)](https://visitcount.itsvg.in)
