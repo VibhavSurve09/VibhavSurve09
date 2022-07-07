@@ -25,7 +25,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dev Meme
-<img src="http://hellomemes.ddns.net/random" width="512px"/>
+[<img src="https://hellomemes.ddns.net/random" width="512px"/>](https://memes.hellomemes.workers.dev/random)
 
 
 ---
